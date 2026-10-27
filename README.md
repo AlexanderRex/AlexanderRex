@@ -1,6 +1,6 @@
 # Alexander Kalmykov
 
-### Robotics and Unreal Engine Developer
+### Robotics Simulation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alexander-kalmykov-26379a1b4/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/@alexthunderrex?feature=shared)
